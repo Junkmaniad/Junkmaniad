@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Junkmaniad (Junkmaniac was taken :<)
-- 👀 I’m interested in math (and computer games, of course--- right now playing Genshin and osu!)
+- 👀 I’m interested in math (and gaming -- I enjoy (J)RPGS)
 - 🌱 I’m currently learning math/picking up basic CS
 
 <!---
